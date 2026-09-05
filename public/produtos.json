@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "nome": "Notebook Gamer",
+    "preco": 4299.9,
+    "categoria": "Informática",
+    "promocao": true
+  },
+  {
+    "id": 2,
+    "nome": "Smartphone",
+    "preco": 1899.9,
+    "categoria": "Celulares",
+    "promocao": false
+  },
+  {
+    "id": 3,
+    "nome": "Fone Bluetooth",
+    "preco": 299.9,
+    "categoria": "Áudio",
+    "promocao": true
+  },
+  {
+    "id": 4,
+    "nome": "Mouse Gamer",
+    "preco": 149.9,
+    "categoria": "Acessórios",
+    "promocao": false
+  },
+  {
+    "id": 5,
+    "nome": "Teclado Mecânico",
+    "preco": 349.9,
+    "categoria": "Acessórios",
+    "promocao": true
+  },
+  {
+    "id": 6,
+    "nome": "Caixa de Som",
+    "preco": 499.9,
+    "categoria": "Áudio",
+    "promocao": false
+  }
+]
